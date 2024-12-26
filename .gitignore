@@ -1,0 +1,15 @@
+# generated spectrograms folder
+gtzan_dataset.zip
+gtzan_dataset/
+gtzan_spectrograms/
+
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+env/
+
+*.tmp
+*.log
+.DS_Store
