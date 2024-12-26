@@ -1,6 +1,6 @@
-ECE 661 F24, Final Project
+# ECE 661 F24, Final Project
 
-Group: Yash, Alice, Emily
+### Group: Yash, Alice, Emily
 
 Project proposal: https://docs.google.com/document/d/1yOxUrbp8bAvgqmjfXcBR5Sv4PFLzor_InDYUeoIdnHg/edit?usp=sharing
 
